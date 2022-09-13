@@ -123,3 +123,14 @@ h1{
 hr{
     margin-top: -50px;
 }
+.nav{
+    display: flex;
+    justify-content: center;
+    column-gap: 25px;
+    margin-top: 50px;
+}
+.colour{
+    text-decoration: none;
+    color: #ffffff;
+}
+
